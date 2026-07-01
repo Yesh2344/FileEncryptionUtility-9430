@@ -40,3 +40,5 @@ Contributions are welcome! Please submit a pull request with your changes.
 ## License
 
 MIT License
+
+<!-- rewrote this part -->
