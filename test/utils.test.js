@@ -17,4 +17,5 @@ describe('utils', () => {
     const decryptedFile = await decryptFile(encryptedFile, password);
     expect(decryptedFile).not.toBeNull();
   });
+// minor polish
 });
