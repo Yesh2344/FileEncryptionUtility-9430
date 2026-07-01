@@ -8,6 +8,7 @@ describe('utils', () => {
     const password = 'password123';
     const encryptedFile = await encryptFile(file, password);
     expect(encryptedFile).not.toBeNull();
+// tiny readability tweak
   });
 
   it('should decrypt a file', async () => {
